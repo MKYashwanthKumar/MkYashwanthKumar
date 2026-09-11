@@ -1,5 +1,24 @@
-# 💫 About Me:
-I am Yashwanth <br>i am AIML student <br>i am focussing on learning new things and exploring new technologies<br>i am profitient in coding and communication skills<br>i had good leadership qualities<br>i am intrested in become expert in skills <br>
+# Hi 👋, I'm Yashwanth
+
+🎓 **AI & Machine Learning Student** | 💻 **Aspiring Full-Stack Developer**
+
+I’m an enthusiastic **AI & Machine Learning student** passionate about learning new technologies, building practical projects, and continuously improving my technical skills.
+
+### 🚀 About Me
+
+* 🤖 Exploring **Artificial Intelligence, Machine Learning & emerging technologies**
+* 💻 Proficient in **programming and problem-solving**
+* 🌐 Interested in **Full-Stack Development**
+* 🧠 Always learning and experimenting with **new tools and technologies**
+* 🗣️ Strong **communication skills** with a collaborative mindset
+* 👨‍💼 Possess good **leadership and teamwork skills**
+* 🎯 Focused on becoming an **expert in my technical skills**
+* 🔥 Enjoy turning ideas into **real-world projects**
+
+> **“Learn. Build. Improve. Repeat.”**
+
+I believe in continuous learning and practical experience, and I’m always looking for opportunities to **explore, create, and grow as a developer.**
+
 
 
 # 💻 Tech Stack:
